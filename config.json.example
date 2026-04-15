@@ -1,0 +1,17 @@
+{
+  "napcat_base_url": "http://127.0.0.1:3000",
+  "napcat_access_token": "",
+  "napcat_send_max_retries": 5,
+  "target_qq": 123456789,
+  "capture_fullscreen": false,
+  "capture_all_screens": true,
+  "window_title": "Window Title Here",
+  "window_hwnd": null,
+  "window_pid": null,
+  "window_class": null,
+  "interval_minutes": 5,
+  "openai_base_url": "https://your-openai-compatible-endpoint/v1",
+  "openai_api_key": "sk-xxxxxxxxxxxxxxxx",
+  "model": "gpt-4o",
+  "prompt": "Please describe this screenshot in detail, extract all visible text, and summarize the key information."
+}
